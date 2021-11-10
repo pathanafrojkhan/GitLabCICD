@@ -1,9 +1,0 @@
-image: ubuntu
-
-sayHello:
-   script: 
-      - echo "hi"
-
-sayBye:
-   script:
-      - echo "Bye"
